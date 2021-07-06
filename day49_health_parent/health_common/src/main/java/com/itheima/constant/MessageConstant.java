@@ -1,6 +1,6 @@
 package com.itheima.constant;
 
-public class MessageConstant {
+public interface MessageConstant {
 
     /**
      * 消息常量, 给前端提示用的
